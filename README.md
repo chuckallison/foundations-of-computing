@@ -30,7 +30,7 @@ The text is suitable for CS majors, CS minors, and motivated programmers who wan
 * Print edition: Available on Amazon
 * PDF edition: Available on Leanpub
 * Short course: Hosted on Leanpub (video + text)
-Instructor desk copies (PDF) are available upon request.
+* Instructor desk copies (PDF) are available upon request.
 ---
 🎓 Instructor Resources
 The following resources are available to verified instructors:
