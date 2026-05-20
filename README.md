@@ -3,7 +3,7 @@ Resources for the textbook Foundations of Computing — formal languages, automa
 
 ## Foundations of Computing: An Accessible Introductioon to Formal Languages
 ### by Charles D. “Chuck” Allison
-#### Fresh Sources, Inc.
+#### Fresh Sources, Inc. Publisher
 
 A clear, accessible undergraduate textbook covering formal languages, automata theory, and introductory computability.
 
@@ -45,4 +45,41 @@ The following resources are available to verified instructors:
 * Suggested syllabi
 * Short video explanations for key topics
 
-To request access, email: mailto:chuck@freshsources.com
+To request access, email: mailto:chuck.allison@gmail.com
+
+---
+📂 Repository Contents
+
+This repository includes:
+
+* Sample Chapter – A representative chapter from the book
+* Sample Exercises – A small set of exercises for preview
+* Errata – Corrections and updates
+* Code Examples – Small demonstrations used in the text
+* Syllabi – Suggested course outlines
+
+These materials are freely available for instructors and students.
+
+---
+🧑‍🏫 Course Adoptions
+
+Current known adoptions:
+
+* Utah Valley University
+* Augsburg University
+
+If you are using the book in your course, feel free to open an issue or email me — I’d be happy to list your institution here.
+
+---
+🧵 Contributing / Feedback
+
+If you find an error, have a suggestion, or want to contribute improvements to the ancillary materials, please open an issue or contact me directly.
+
+---
+📬 Contact
+Chuck Allison
+Professor Emeritus, Utah Valley University
+Adjunct Professor, Parkland College
+Fresh Sources Publishing
+freshsources.com
+Email: chuck.allison@gmail.com
