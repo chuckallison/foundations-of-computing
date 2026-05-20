@@ -1,7 +1,7 @@
 # foundations-of-computing
 Resources for the textbook Foundations of Computing — formal languages, automata, and computability.
 
-## Foundations of Computing
+## Foundations of Computing: An Accessible Introductioon to Formal Languages
 ### by Charles D. “Chuck” Allison
 #### Fresh Sources, Inc.
 
@@ -16,14 +16,14 @@ Foundations of Computing is designed for undergraduate courses in:
 * Automata Theory
 * Theory of Computation
 * Discrete Structures II
-* CS Foundations for programmers
+* CS Foundations for programmers  
 The book emphasizes clarity and intuition while maintaining mathematical rigor. It includes:
 * Deterministic and nondeterministic finite automata
 * Regular languages and regular grammars
 * Context‑free grammars and pushdown automata
 * Turing machines and decidability
 * Reductions and computability
-* Numerous worked examples and exercises
+* Numerous worked examples and exercises  
 The text is suitable for CS majors, CS minors, and motivated programmers who want a deeper understanding of computation.
 ---
 📦 Availability
