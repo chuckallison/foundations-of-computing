@@ -78,11 +78,11 @@ If you find an error, have a suggestion, or want to contribute improvements to t
 
 Chuck Allison
 
-Professor Emeritus, Utah Valley University (2001–2022)
+Professor Emeritus, Utah Valley University
 
-Adjunct Professor, Parkland College (2023–present)
+Adjunct Professor, Parkland College
 
-Fresh Sources, Inc. (1997–present)
+Fresh Sources, Inc.
 
 https://freshsources.com
 
