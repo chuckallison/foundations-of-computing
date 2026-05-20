@@ -11,6 +11,7 @@ Adopted at Utah Valley University and Augsburg University.
 
 ---
 📘 About the Book
+
 Foundations of Computing is designed for undergraduate courses in:
 * Formal Languages
 * Automata Theory
