@@ -25,7 +25,7 @@ The book emphasizes clarity and intuition while maintaining mathematical rigor. 
 * Context‑free grammars and pushdown automata
 * Turing machines and decidability
 * Reductions and computability
-* Numerous worked examples and exercises
+* Numerous worked examples and exercises, code examples in Python
 
 The text is suitable for CS majors, CS minors, and motivated programmers who want a deeper understanding of computation.
 
