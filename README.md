@@ -3,7 +3,7 @@ Resources for the textbook Foundations of Computing — formal languages, automa
 
 ## Foundations of Computing
 ### by Charles D. “Chuck” Allison
-Fresh Sources, Inc.
+#### Fresh Sources, Inc.
 
 A clear, accessible undergraduate textbook covering formal languages, automata theory, and introductory computability.
 
