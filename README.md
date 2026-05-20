@@ -25,7 +25,9 @@ The book emphasizes clarity and intuition while maintaining mathematical rigor. 
 * Turing machines and decidability
 * Reductions and computability
 * Numerous worked examples and exercises
+
 The text is suitable for CS majors, CS minors, and motivated programmers who want a deeper understanding of computation.
+
 ---
 📦 Availability
 * Print edition: Available on Amazon
