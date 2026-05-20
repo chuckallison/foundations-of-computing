@@ -40,6 +40,5 @@ The following resources are available to verified instructors:
 * Sample midterm and final exams
 * Suggested syllabi
 * Short video explanations for key topics
-To request access, email:
 
-mailto:chuck@freshsources.com
+To request access, email: mailto:chuck@freshsources.com
