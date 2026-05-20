@@ -7,8 +7,6 @@ Resources for the textbook Foundations of Computing — formal languages, automa
 
 A clear, accessible undergraduate textbook covering formal languages, automata theory, and introductory computability.
 
-Adopted at Utah Valley University and Augsburg University.
-
 ---
 📘 About the Book
 
