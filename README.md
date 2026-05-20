@@ -45,7 +45,6 @@ The following resources are available to verified instructors:
 * Suggested syllabi
 * Short video explanations for key topics
 
-To request access, email: mailto:chuck.allison@gmail.com
 ---
 📂 Repository Contents
 
