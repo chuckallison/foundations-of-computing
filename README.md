@@ -3,7 +3,7 @@ Resources for the textbook **Foundations of Computing** — formal languages, au
 
 **Website**: https://freshsources.com
 
-## Foundations of Computing: An Accessible Introductioon to Formal Languages
+## Foundations of Computing: An Accessible Introduction to Formal Languages
 ### by Charles D. “Chuck” Allison
 #### Fresh Sources, Inc. Publisher
 
