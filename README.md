@@ -33,6 +33,7 @@ The text is suitable for CS majors, CS minors, and motivated programmers who wan
 * Instructor desk copies (PDF) are available upon request.
 ---
 🎓 Instructor Resources
+
 The following resources are available to verified instructors:
 * Full slide deck
 * Solutions to exercises
