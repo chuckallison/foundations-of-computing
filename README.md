@@ -1,6 +1,8 @@
 # foundations-of-computing
 Resources for the textbook Foundations of Computing — formal languages, automata, and computability.
 
+**Website**: https://freshsources.com
+
 ## Foundations of Computing: An Accessible Introductioon to Formal Languages
 ### by Charles D. “Chuck” Allison
 #### Fresh Sources, Inc. Publisher
