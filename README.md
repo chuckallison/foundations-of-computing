@@ -50,11 +50,10 @@ The following resources are available to verified instructors:
 
 This repository includes:
 
-* Sample Chapter – A representative chapter from the book
-* Sample Exercises – A small set of exercises for preview
-* Errata – Corrections and updates
+* Sample Chapters – Representative chapters from the book
+* Sample Exercises – Exercises appear at the end of each section in the sample chapters
 * Code Examples – Small demonstrations used in the text
-* Syllabi – Suggested course outlines
+* Syllabus – Suggested course outline
 
 These materials are freely available for instructors and students.
 
